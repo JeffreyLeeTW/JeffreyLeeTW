@@ -5,7 +5,7 @@
 
 - 😃 Jeffrey
 - 🏫 Department of Information Management, Tamkang University
-- 📮 jeffteyleetw@outlook.com
+- 📮 contact.me@jeffrey-lee.us.kg
 - 💖 Doro
 
 ![doro.png](./pictures/doro.png)
