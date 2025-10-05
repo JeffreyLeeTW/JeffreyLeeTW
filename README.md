@@ -13,7 +13,9 @@
 
 ---
 
-🎓 **Student** &nbsp;|&nbsp; 🧪 **QA Intern**
+🎓 **Student**</br>
+🧪 **QA Intern** : 2025/07/01 ~ 2025/09/13</br>
+🔧 **DevOps Intern** : 2025/09/13 ~ now</br>
 
 ---
 
@@ -28,11 +30,12 @@
 
 ## 🔥 Skills
 
-- **Languages:** Java, Python, TypeScript
+- **Languages:** Java, Python, TypeScript, yaml
 - **Game Engine:** Unity
 - **Database:** MySQL, Oracle
 - **Quality Assurance:** Manual & Automated Testing
-
+- **Cloud Platform:** GCP
+- **Observability:** Grafana, Prometheus, Loki, Tempo
 ---
 
 ## 🌟 Featured Project
