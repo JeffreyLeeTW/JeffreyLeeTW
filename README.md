@@ -2,20 +2,13 @@
 
 - 😃 Jeffrey
 - 🏫 Department of Information Management, Tamkang University
-- 💖 Doro
-
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=JeffreyLeeTW&count_private=true&show_icons=true)"
-    align="top" />
-</picture>
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQ5dmttcGF0dXF5NWF1ZWFjYnRxdXZsanQwOW1hMGJkc3R4dXM3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nCMhHpULYLqcwMxBJL/giphy.gif"/>
 
 ---
 
 🎓 **Student**</br>
 🧪 **QA Intern** : 2025/07/01 ~ 2025/09/13</br>
-🔧 **DevOps Intern** : 2025/09/13 ~ now</br>
+🔧 **DevOps Intern** : 2025/09/13 ~ 2025/12/03</br>
+🧪 **QA Intern** : 2025/12/03 ~ now</br>
 
 ---
 
